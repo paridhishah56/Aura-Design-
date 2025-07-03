@@ -39,8 +39,8 @@ const Hero: React.FC = () => {
 
           {/* Main Headline */}
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-8 leading-tight">
-            Transform Your
-            <span className="block text-amber-400">Space</span>
+            Transform Your 
+            <span className="block text-amber-400">Space Around</span>
           </h1>
 
           {/* Subtitle */}
